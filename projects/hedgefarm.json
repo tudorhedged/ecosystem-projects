@@ -1,0 +1,18 @@
+{
+  "name": "HedgeFarm",
+  "slug": "hedgefarm",
+  "date": "2022-10-19",
+  "highlight": "A DeFi protocol that provides alpha yield vaults for your crypto.",
+  "logo": "/img/hedgefarm.png ",
+  "tags": ["defi","yield"],
+  "status": "live",
+  "website": "https://hedgefarm.finance/",
+  "twitter": "https://twitter.com/hedge_farm",
+  "summary": "HedgeFarm allows you to access crypto investment vaults that will suit your needs depending on what type of crypto assets you want to invest in and what type of risk you are ready to take for the performance you'll get.",
+  "telegram": "",
+  "discord": "https://bit.ly/3UZxlMm",
+  "docs":"https://docs.hedgefarm.finance",
+  "github":"https://github.com/HedgeFarm",
+  "token":"",
+  "cmc":""
+}
